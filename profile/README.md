@@ -13,4 +13,3 @@
 
 ## 프로젝트 설계
 ### 🎨 화면 구상(Figma)
-<img src="./images/color-picker.jpg" alt="figma-color-picker" width="800px" />
