@@ -14,9 +14,29 @@
   
 - 이번 프로젝트를 통해 사용자들이 간편하게 온라인으로 미용 예약을 할 수 있으며, 반려동물과 함께하는 사람들이 더 편리하게 서비스를 이용할 수 있습니다.
 
+<br /> <br />
 
 ## 개발 일정
 - **개발 기간** : 2025/02/17 ~ 진행중
+- 진행과정 참고 : https://www.notion.so/Content-Calendar-1aff1954175080939f03f632faf8eaa2
+<img src="./images/schedule_1.jpg" alt="schedule-1" />
+<img src="./images/schedule_2.jpg" alt="schedule-2" />
+
+<br /> <br />
+
+## 개발환경 및 기술스택
+| 항목 | 내용 |
+|---|---|
+| **프로그래밍 언어** | Java 17 |
+| **프론트엔드** | React 19.0.0, TypeScript 5.7.2 |
+| **패키지 상태관리** | Yarn
+| **프레임워크** | Spring Boot 3.3.8 |
+| **빌드 도구** | gradle 8.12.1 |
+| **데이터베이스(DB)** | PostgreSQL 16.8 |
+| **데이터베이스 연동** | MyBatis |
+| **개발 도구(IDE)** | IntelliJ IDEA Ultimate, Visual Studio Code |
+
+<br /> <br />
 
 ## 프로젝트 설계
 ### 🎨 화면 구상(Figma)
@@ -26,6 +46,8 @@
 - **화면 디자인**
 <img src="./images/figma1.jpg" alt="figma-1" />
 <img src="./images/figma2.jpg" alt="figma-2" />
+
+<br /> <br />
 
 ## 프론트엔드
 ### Vite + React + TypeScript
