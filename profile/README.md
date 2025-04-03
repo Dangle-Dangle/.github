@@ -103,10 +103,18 @@
 
 <br /> <br />
 
-📍 **예약**
+📍 **예약하기**
+<div align="left">
+  <img src="./images/reservation-form.jpg" alt="예약리스트" width="33%" />
+  <img src="./images/reservation-payment1.jpg" alt="예약대기" width="33%" />
+  <img src="./images/reservation-payment2.jpg" alt="예약취소" width="33%" />
+</div>
+
+<br /> <br />
+
+📍 **예약내역**
 <div align="left">
   <img src="./images/reservation-list.png" alt="예약리스트" width="33%" />
   <img src="./images/reservation-detail-waiting.png" alt="예약대기" width="33%" />
   <img src="./images/reservation-detail-cancel.png" alt="예약취소" width="33%" />
 </div>
-
