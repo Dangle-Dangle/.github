@@ -21,6 +21,7 @@
 - 진행과정 참고 : https://www.notion.so/Content-Calendar-1aff1954175080939f03f632faf8eaa2
 <img src="./images/schedule_1.jpg" alt="schedule-1" />
 <img src="./images/schedule_2.jpg" alt="schedule-2" />
+<img src="./images/schedule_3.jpg" alt="schedule-3" />
 
 <br /> <br />
 
