@@ -46,6 +46,7 @@
 - **화면 디자인**
 <img src="./images/figma1.jpg" alt="figma-1" />
 <img src="./images/figma2.jpg" alt="figma-2" />
+<img src="./images/figma3.jpg" alt="figma-3" />
 
 <br /> <br />
 
